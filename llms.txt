@@ -1,0 +1,11 @@
+# Зализняк — сверка двух версий препринта (09.2026_final vs 22.10.2026)
+
+> Side-by-side collation of two preprint versions of a Zalizniak work: annotated PDFs and page-render diffs.
+
+## Pages
+
+- [Diff home](https://gasyoun.github.io/zalizniak-diff/)
+- [PDF — 09.2026_final (annotated)](https://gasyoun.github.io/zalizniak-diff/pdf/Zalizniak-09.2026_final_ANNOTATED.pdf)
+- [PDF — 22.10.2026 (annotated)](https://gasyoun.github.io/zalizniak-diff/pdf/Zalizniak-22.10.2026_ANNOTATED.pdf)
+
+Source: https://github.com/gasyoun/zalizniak-diff
